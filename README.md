@@ -8,4 +8,4 @@ https://dlope0831.github.io/work-day-scheduler/
 
 # Website Screenshot
 ![alt screenshot of Work Day Scheduler](./public/Screenshot%20Picture%201.png)
-![alt screenshot of Password Generator](./public/Screenshot%20Picture%202.png)
+![alt screenshot of Work Day Scheduler](./public/Screenshot%20Picture%202.png)
